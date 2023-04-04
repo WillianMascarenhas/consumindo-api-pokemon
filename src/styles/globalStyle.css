@@ -1,0 +1,20 @@
+body{
+    background-color:rgba(0, 0, 0, 0.934);
+}
+
+:root{
+    --header-title-color:#DEE2E6;
+    --header-fontsize:1.5rem:
+
+    --card-color: #CED4DA;
+    --card-color-backgroud:#343A40;
+    --card-fontsize:1.25rem
+    
+    --input-color:#7C8B99;
+    --input-fontsize: 0.7rem;
+    
+    --button-color-background:#4C6EF5;
+    --button-color:#FFFFFF;
+
+    --border-radius:8px;
+}
